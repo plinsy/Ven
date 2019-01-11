@@ -14,7 +14,7 @@ On a une methode traitant:
 - Quelle est la position dans l'array de la personne @epenser ?
 > En lancant 'ruby 00_journalists.rb' vous aurez a choisir l'une de ces methods pour l'activer 
 
-##01_cryptocurrencies.rb
+## 01_cryptocurrencies.rb
 
 - La ou les crypto qui ont la plus grosse valeur.
 - La ou les crypto qui ont la plus petite valeur.
@@ -28,7 +28,6 @@ On a une methode traitant:
 **Ou vous pouvez tester mon code [ici](https://rextester.com/l/ruby_online_compiler) c'est un site pour tester des codes enligne**
 
 _J'espere que vous allez apprecier ce projet et  que vous me contacterez pour des questions ou des suggestions_
-
-:simple_smile:
+ :simple_smile:
 
 
