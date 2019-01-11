@@ -27,6 +27,6 @@ On a une methode traitant:
 
 **Ou vous pouvez tester mon code [ici](https://rextester.com/l/ruby_online_compiler) c'est un site pour tester des codes enligne**
 
-_J'espere que vous allez apprecier ce projet et  que vous me [contacterez](plinsy2@gmail.com) pour des questions ou des suggestions_
+_J'espere que vous allez apprecier ce projet et  que vous me contacterez pour des questions ou des suggestions_
 
 
